@@ -1,1 +1,12 @@
 
+get numbers a,b,c
+is a<b
+    and a<c
+    output a,b,c
+   else print a,c,b
+  else print c,a,b
+ is b<c
+  is a<c
+  print b,a,c
+  else print a,c,a
+ else print c,b,a
