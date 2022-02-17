@@ -1,1 +1,10 @@
-
+start
+get number n
+set n=n+1
+while n=n+1
+set sum=n+(n+1)
+if sum is -ve
+  stop
+  else
+sum=n+(n+1
+stop
