@@ -1,4 +1,4 @@
-
+start
 get numbers a,b,c
 is a<b
     and a<c
@@ -10,3 +10,4 @@ is a<b
   print b,a,c
   else print a,c,a
  else print c,b,a
+end
